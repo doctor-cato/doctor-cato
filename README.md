@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=007ACC&center=true&vcenter=true&width=600&height=70&lines=Hi%2C+I'm+Cato;Full-Stack+Developer;Building+Clean+%26+Reliable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=007ACC&center=true&vcenter=true&width=600&height=70&lines=Hi%2C+I'm+Cato;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 # Doctor Cato
